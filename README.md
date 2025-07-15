@@ -70,42 +70,6 @@
   </ul>
 </section>
 
-<!-- 4. RATES -->
-<section id="rates">
-  <h2 class="text-sky-700 text-2xl font-semibold mb-6"><span class="icon">💰</span>ตารางค่าบริการ</h2>
-  <div class="md:flex md:gap-8">
-
-    <!-- SEA -->
-    <div class="md:w-1/2 space-y-3">
-      <h3 class="font-semibold text-pink-700 flex items-center gap-1"><span class="icon">🚢</span>ทางเรือ</h3>
-      <table class="rounded-xl shadow bg-pink-100 text-sm">
-        <thead class="bg-pink-200 text-pink-900"><tr><th>หมวด</th><th class="text-right">กก.</th><th class="text-right">คิว (฿)</th></tr></thead>
-        <tbody>
-          <tr><td>ทั่วไป</td><td class="text-right">20</td><td class="text-right">4,500</td></tr>
-          <tr class="bg-pink-50"><td>มอก</td><td class="text-right">25</td><td class="text-right">5,500</td></tr>
-          <tr><td>อย</td><td class="text-right">35</td><td class="text-right">6,500</td></tr>
-          <tr class="bg-pink-50"><td>พิเศษ</td><td class="text-right">45</td><td class="text-right">7,500</td></tr>
-        </tbody>
-      </table>
-    </div>
-
-    <!-- ROAD -->
-    <div class="md:w-1/2 space-y-3 mt-10 md:mt-0">
-      <h3 class="font-semibold text-amber-700 flex items-center gap-1"><span class="icon">🚚</span>ทางรถ</h3>
-      <table class="rounded-xl shadow bg-amber-100 text-sm">
-        <thead class="bg-amber-200 text-amber-900"><tr><th>หมวด</th><th class="text-right">กก.</th><th class="text-right">คิว (฿)</th></tr></thead>
-        <tbody>
-          <tr><td>ทั่วไป</td><td class="text-right">30</td><td class="text-right">6,900</td></tr>
-          <tr class="bg-amber-50"><td>มอก</td><td class="text-right">35</td><td class="text-right">7,500</td></tr>
-          <tr><td>อย</td><td class="text-right">40</td><td class="text-right">8,500</td></tr>
-          <tr class="bg-amber-50"><td>พิเศษ</td><td class="text-right">70</td><td class="text-right">9,900</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </div>
-  <p class="italic text-sm mt-3">* ราคาข้างต้นเป็นอัตราเริ่มต้น ติดต่อเพื่อใบเสนอราคาจริง</p>
-</section>
-
 <!-- 5. PROCESS -->
 <section>
   <h2 class="text-sky-700 text-2xl font-semibold mb-4"><span class="icon">📦</span>ขั้นตอนการใช้บริการ</h2>
